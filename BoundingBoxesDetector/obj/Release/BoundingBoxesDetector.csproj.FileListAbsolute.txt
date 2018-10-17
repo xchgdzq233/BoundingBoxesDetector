@@ -1,0 +1,8 @@
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\bin\Release\BoundingBoxesDetector.exe.config
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\bin\Release\BoundingBoxesDetector.exe
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\bin\Release\log4net.dll
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\bin\Release\log4net.xml
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\obj\Release\BoundingBoxesDetector.csproj.CoreCompileInputs.cache
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\obj\Release\BoundingBoxesDetector.csproj.CopyComplete
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\obj\Release\BoundingBoxesDetector.exe
+C:\Users\Cui\source\repos\BoundingBoxesDetector\BoundingBoxesDetector\obj\Release\BoundingBoxesDetector.csprojAssemblyReference.cache
